@@ -2,7 +2,7 @@
 
 ![The Tide Keeper of San Francisco: the Keeper at golden hour, with the Golden Gate behind it and corgis on a rock in front](assets/tide-keeper-sf-still.jpg)
 
-*A frame from the film.*
+*The Tide Keeper of San Francisco*
 
 The Tide Keeper of San Francisco: a short film (1935 frames, 80.625 s, 24 fps, 1920x1040) as one self-contained HTML file that renders itself to MP4 in Chrome.
 
